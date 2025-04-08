@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.example.bank-system-java' is invalid and this project uses 'com.example.bank_system_java' instead.
+* The original package name 'com.example.bank-system-java' is invalid and this project uses 'com.example.banksystemjava' instead.
 
 # Getting Started
 
